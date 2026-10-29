@@ -1,0 +1,11 @@
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\bin\Debug\Cafe_Uygulaması.exe.config
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\bin\Debug\Cafe_Uygulaması.exe
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\bin\Debug\Cafe_Uygulaması.pdb
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.exe
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.pdb
+C:\Users\BERKE\Desktop\C#Form\Cafe_Uygulaması\Cafe_Uygulaması\obj\Debug\Cafe_Uygulaması.exe.config
