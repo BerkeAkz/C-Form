@@ -1,0 +1,10 @@
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\bin\Debug\ders9.exe.config
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\bin\Debug\ders9.exe
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\bin\Debug\ders9.pdb
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.exe
+C:\Users\BERKE\Desktop\C#Form\ders9\ders9\obj\Debug\ders9.pdb
