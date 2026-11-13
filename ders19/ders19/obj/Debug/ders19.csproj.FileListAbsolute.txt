@@ -1,0 +1,11 @@
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\bin\Debug\ders19.exe.config
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\bin\Debug\ders19.exe
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\bin\Debug\ders19.pdb
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.exe
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.pdb
+C:\Users\BERKE\Desktop\C#Form\ders19\ders19\obj\Debug\ders19.exe.config

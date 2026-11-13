@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|c:\\users\\berke\\desktop\\c#form\\ders20\\ders20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|solutionrelative:ders20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|c:\\users\\berke\\desktop\\c#form\\ders20\\ders20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|solutionrelative:ders20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|c:\\users\\berke\\desktop\\c#form\\ders20\\ders20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FD7D5-90C3-4E1D-B93D-868CEF5D08A1}|ders20\\ders20.csproj|solutionrelative:ders20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ders20\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.Designer.cs*",
+              "RelativeToolTip": "ders20\\Form1.Designer.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAvwE8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T23:08:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.cs",
+              "RelativeDocumentMoniker": "ders20\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.cs*",
+              "RelativeToolTip": "ders20\\Form1.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T22:39:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.cs",
+              "RelativeDocumentMoniker": "ders20\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\ders20\\ders20\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "ders20\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T22:31:02.644Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

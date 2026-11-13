@@ -1,0 +1,11 @@
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\bin\Debug\ders17.exe.config
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\bin\Debug\ders17.exe
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\bin\Debug\ders17.pdb
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.exe
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.pdb
+C:\Users\BERKE\Desktop\C#Form\ders17\ders17\obj\Debug\ders17.exe.config

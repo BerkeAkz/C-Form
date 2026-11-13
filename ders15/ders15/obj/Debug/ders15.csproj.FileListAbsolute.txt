@@ -1,0 +1,11 @@
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\bin\Debug\ders15.exe.config
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\bin\Debug\ders15.exe
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\bin\Debug\ders15.pdb
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.exe
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.pdb
+C:\Users\BERKE\Desktop\C#Form\ders15\ders15\obj\Debug\ders15.exe.config
