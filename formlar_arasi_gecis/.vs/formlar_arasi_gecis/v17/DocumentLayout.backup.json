@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|c:\\users\\berke\\desktop\\c#form\\formlar_arasi_gecis\\formlar_arasi_gecis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|solutionrelative:formlar_arasi_gecis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|c:\\users\\berke\\desktop\\c#form\\formlar_arasi_gecis\\formlar_arasi_gecis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|solutionrelative:formlar_arasi_gecis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|c:\\users\\berke\\desktop\\c#form\\formlar_arasi_gecis\\formlar_arasi_gecis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|solutionrelative:formlar_arasi_gecis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|c:\\users\\berke\\desktop\\c#form\\formlar_arasi_gecis\\formlar_arasi_gecis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEC090BB-E6DF-4D74-956E-74F6DCCE0F09}|formlar_arasi_gecis\\formlar_arasi_gecis.csproj|solutionrelative:formlar_arasi_gecis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form2.cs",
+              "RelativeDocumentMoniker": "formlar_arasi_gecis\\Form2.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form2.cs",
+              "RelativeToolTip": "formlar_arasi_gecis\\Form2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:02:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form2.cs",
+              "RelativeDocumentMoniker": "formlar_arasi_gecis\\Form2.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "formlar_arasi_gecis\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:51:54.711Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form1.cs",
+              "RelativeDocumentMoniker": "formlar_arasi_gecis\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form1.cs",
+              "RelativeToolTip": "formlar_arasi_gecis\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:49:40.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form1.cs",
+              "RelativeDocumentMoniker": "formlar_arasi_gecis\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERKE\\Desktop\\C#Form\\formlar_arasi_gecis\\formlar_arasi_gecis\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "formlar_arasi_gecis\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:49:32.85Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csproj.AssemblyReference.cache
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Form1.resources
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Form2.resources
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Properties.Resources.resources
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csproj.GenerateResource.cache
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csproj.CoreCompileInputs.cache
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.exe.config
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.exe
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.pdb
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.exe
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.pdb
+C:\Users\BERKE\Desktop\C#Form\formlar_arasi_gecis\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.exe.config
